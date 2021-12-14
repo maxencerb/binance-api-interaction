@@ -1,0 +1,17 @@
+{
+  "name": "binance-api-interaction",
+  "version": "1.0.0",
+  "description": "interact with the binance api witout library",
+  "main": "index.js",
+  "author": "Maxence RABALLAND",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.1.0",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
